@@ -76,18 +76,18 @@ header nav ul li a:hover {
 
 .hero .overlay {
     text-align: center;
-    background: rgba(0, 0, 0, 0.5);
-    padding: 50px;
-    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 25px;
+    border-radius: 100px;
 }
 
 .hero h2 {
-    font-size: 48px;
+    font-size: 35px;
     margin-bottom: 20px;
 }
 
 .hero button {
-    background-color: #ff6347;
+    background-color: #518ed4;
     border: none;
     padding: 15px 30px;
     font-size: 18px;
